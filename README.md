@@ -17,7 +17,7 @@ Nesta nova versão, o objetivo é criar um site mais moderno e estruturado utili
 ## 📚 Documentação
 
 - ✅ [Caso de Uso](https://github.com/CaiquevFreitas/Animes/blob/cb2efd2ebfc626114546f5326afe9881aa46a3b1/Documenta%C3%A7%C3%A3o/caso%20de%20uso.png)
-- ✅ Descrição dos Casos de Uso
+- ✅ [Descrição dos Casos de Uso](https://github.com/CaiquevFreitas/Animes/blob/a6ad2d6042146e39235663271775e0315b6b3cd6/Documenta%C3%A7%C3%A3o/descricaoCasodeUso.md)
 
 ---
 
