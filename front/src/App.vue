@@ -28,3 +28,7 @@
   <component  :is="currentView" />
 </template>
 
+<style>
+@import "tailwindcss";
+</style>
+
